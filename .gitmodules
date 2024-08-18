@@ -1,0 +1,3 @@
+[submodule "static/doc-examples/prunepy"]
+	path = static/doc-examples/prunepy
+	url = https://github.com/darikoko/prunepy
